@@ -1,0 +1,5 @@
+# Better AI quality (install after requirements.txt)
+# If these fail on your Python version, DocMind still works without them
+# (it falls back to TF-IDF search and an in-memory store).
+chromadb
+sentence-transformers

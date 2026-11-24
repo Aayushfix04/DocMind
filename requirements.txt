@@ -1,0 +1,9 @@
+# Core (install this first)
+pypdf
+python-docx
+python-dotenv
+numpy
+scikit-learn
+streamlit
+anthropic
+pytest
